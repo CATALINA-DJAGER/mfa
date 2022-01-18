@@ -1,6 +1,6 @@
 # MFA #
 
-## In this mega awesome project i automate sending letters with check-in details for aircompanies that don't provide electronic boarding passes. As an example I am taking the aircompany Bees Airlines (7B).
+## In this mega awesome project i automate sending letters to travellers with check-in details for aircompanies that don't provide electronic boarding passes. As an example I am taking the aircompany Bees Airlines (7B).
 ## Staging:
 - open Travellizy Admin site
 - open Check-in list for the actual date
