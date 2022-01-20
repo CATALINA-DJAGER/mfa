@@ -16,9 +16,9 @@
 - change the orders 7B fro the actual date to status 'Done' (there are three possible status options: Check-in, Cancelled, Done)
 
 ## Models:
-* Check-in (status, aircompany, traveller)
+* CheckIn (status, aircompany, traveller)
 * Aircompany (code, name)
-* Traveller (e-mail)
-traveller e-mail (traveller, e-mail)
-* E-mail (template)
+* Traveller (email)
+traveller email (traveller, email)
+* Email (template)
 * Template (html script, aircompany name)
