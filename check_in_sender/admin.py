@@ -1,3 +1,10 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Aircompany
+
+
+class AircompanyAdmin(admin.ModelAdmin):
+    list_display = ('name', 'code')
+
+
+admin.site.register(Aircompany, AircompanyAdmin)
