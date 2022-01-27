@@ -1,0 +1,28 @@
+[
+  {
+    "model": "check_in_sender.aircompany",
+    "pk": 1,
+    "fields": {
+      "name": "Bees Airlines",
+      "code": "7B"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$vSGQtr2wLzDOBq6LMfCUBc$EaK1q1b4T82tLRt+kLn1RSTEGgVD7MdiPd9bUB9T1lU=",
+      "last_login": "2022-01-27T07:22:36Z",
+      "is_superuser": true,
+      "username": "Kate",
+      "first_name": "",
+      "last_name": "",
+      "email": "atychka2@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-01-27T07:21:13Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
