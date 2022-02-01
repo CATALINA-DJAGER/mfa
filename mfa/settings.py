@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'mfa_site.apps.MfaSiteConfig',
     'check_in_sender.apps.CheckInSenderConfig',
     'django.contrib.admin',
     'django.contrib.auth',
